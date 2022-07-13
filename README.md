@@ -1,2 +1,2 @@
 # quantum_patents
-To discuss patents from different countries that are driving the development of quantum computing.
+To discuss patents that help the development of the quantum computing tecnhologies.
